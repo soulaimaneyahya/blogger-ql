@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-shadow {
+    text-shadow: 2px 2px 0 rgb(209, 209, 209);
+}
+.router-link-active {
+    color: dark;
+    font-weight: 600;
+    text-decoration: underline;
+}
